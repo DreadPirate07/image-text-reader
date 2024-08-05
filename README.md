@@ -38,15 +38,15 @@ pip install pytesseract pillow
 
 ## Usage
 
-### Step 1: create an image directory
+#### Step 1: create an image directory
 
 ```bash
 mkdir image
 ```
 
-### Step 2 : Copy the images to be scanned inside image directory
+#### Step 2 : Copy the images to be scanned inside image directory
 
-### Step 3 : Run script.py
+#### Step 3 : Run script.py
 ``` bash
 python3 script.py
 ```
